@@ -7,7 +7,7 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/api/', '/admin/'],
     },
-    sitemap: 'https://sfai.netlify.app/sitemap.xml',
+    sitemap: 'https://polite-kulfi-1470c6.netlify.app//sitemap.xml',
   }
 }
 
